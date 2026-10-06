@@ -1,0 +1,7 @@
+{
+  "product": "OCP Plateforme Formation",
+  "version": "2.7.0",
+  "installer": "OCP_Formation_Setup_v2.7.exe",
+  "sha256": "f27efdb6ca4e2076dcfc6656df1be2fe28267ab65cf92ab816434ae803c4f081",
+  "tag": "v2.7.0"
+}
